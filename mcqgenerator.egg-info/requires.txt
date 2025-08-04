@@ -5,5 +5,3 @@ python-dotenv
 pyPDF2
 langchain-openai
 langchain-community
-
--e .
